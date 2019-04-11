@@ -1,0 +1,6 @@
+# .idea 配下にある全てのファイル
+.idea/
+
+# 全ての .DS_Store ファイル
+/.DS_Store
+
